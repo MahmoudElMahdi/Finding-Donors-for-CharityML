@@ -1,0 +1,2 @@
+# Finding-Donors-for-CharityML
+Machine Learning project designed to get me acquainted with the many supervised learning algorithms available in sklearn, and to also provide for a method of evaluating just how each model works and performs on a certain type of data. It is important in machine learning to understand exactly when and where a certain algorithm should be used, and when one should be avoided.
